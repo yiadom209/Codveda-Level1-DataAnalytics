@@ -13,12 +13,14 @@ This repository contains the completed tasks for Level 1 of my data analytics in
 
   To run this task, use this link: https://colab.research.google.com/drive/1MAVnyCuCkLux0u8A6dCEhZFriPU63IXu?usp=sharing
 
+
 ### Task 2 – Exploratory Data Analysis (EDA)
 - Used the Iris dataset
 - Performed summary statistics
 - Visualized distributions and correlations
 
 To run this task, use this link: https://colab.research.google.com/drive/1WhV3vvql9LnYienIYYRdOnp6Hn-0BKWV?usp=sharing
+
 
 ### Task 3 – Basic Data Visualization
 - Created bar, line, and scatter plots using the Iris dataset
