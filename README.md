@@ -33,5 +33,6 @@ This repository contains the completed tasks for Level 1 of my Data Analytics In
 
 
 ## Author
-Elijah Asante Boakye Yiadom
+Elijah Asante Boakye Yiadom.
+
 Intern, Codveda Technologies
